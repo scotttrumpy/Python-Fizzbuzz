@@ -1,7 +1,4 @@
 {
-  "test_fizzbuzz.py::test_fizzbuzz": true, 
   "test_fizzbuzz.py::test_fizzbuzz::test_for_the_return_of_fizzbuzz_for_multiples_of_3": true, 
-  "test_fizzbuzz.py::test_fizzbuzz::test_for_the_return_of_fizzbuzz_for_multiples_of_3_and_5": true, 
-  "test_fizzbuzz.py::test_fizzbuzz::test_for_the_return_of_fizzbuzz_for_multiples_of_5": true, 
-  "test_fizzbuzz.py::test_fizzbuzz::test_no_response": true
+  "test_fizzbuzz.py::test_fizzbuzz::test_for_the_return_of_fizzbuzz_for_multiples_of_5": true
 }
